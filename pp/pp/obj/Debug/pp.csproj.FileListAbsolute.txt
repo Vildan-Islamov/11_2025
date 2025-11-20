@@ -1,0 +1,9 @@
+C:\Users\Hyperv\source\repos\pp\pp\bin\Debug\pp.exe.config
+C:\Users\Hyperv\source\repos\pp\pp\bin\Debug\pp.exe
+C:\Users\Hyperv\source\repos\pp\pp\bin\Debug\pp.pdb
+C:\Users\Hyperv\source\repos\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\Hyperv\source\repos\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\Hyperv\source\repos\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\Hyperv\source\repos\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperv\source\repos\pp\pp\obj\Debug\pp.exe
+C:\Users\Hyperv\source\repos\pp\pp\obj\Debug\pp.pdb
